@@ -14,12 +14,12 @@
 
 
 **Office Hours Schedule**
-
+#### Onsite Office Hours - Tyler 3rd Floor Lounge
 
 | Day        | Staff Member                      | Time                               | Location                       |
 |------------|-----------------------------------|------------------------------------|--------------------------------|
 | Monday     | John <br> Liam                   | 11:30 AM - 1:30 PM <br> 12:00 PM - 1:45 PM | Onsite <br> Onsite            |
-| Tuesday    | Keely <br> Roquibat <br> Liam    | 12:30 PM - 2:30 PM <br> 2:00 PM - 4:00 PM <br> 2:30 PM - 3:30 PM | Onsite <br> Onsite <br> Onsite |
+| Tuesday    | Michael <br> Keely <br> Roquibat <br> Liam    | 10:00 AM - 11:00AM <br> 12:30 PM - 2:30 PM <br> 2:00 PM - 4:00 PM <br> 2:30 PM - 3:30 PM | Tyler 132 <br> Onsite <br> Onsite <br> Onsite |
 | Wednesday  | Liam <br> Marvens <br> Nathan    | 12:00 PM - 3:00 PM <br> 2:00 PM - 3:00 PM <br> 4:00 PM - 6:00 PM | Onsite <br> Onsite <br> Onsite |
 | Thursday   | Keely <br> Nathan <br> Liam      | 12:30 PM - 2:30 PM <br> 1:00 PM - 3:00 PM <br> 2:30 PM - 4:30 PM | Onsite <br> Onsite <br> Onsite |
 | Friday     | Roquibat <br> John <br> Keely    | 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 1:00 PM | Onsite <br> [Online](#) <br> Onsite |
