@@ -16,22 +16,14 @@
 **Office Hours Schedule**
 
 
-| Day        | Staff Member  | Time               | Location                       |
-|------------|---------------|--------------------|--------------------------------|
-| Monday     | John          | 11:30 AM - 1:30 PM | In-Person                        |
-|            | Liam          | 12:00 PM - 1:45 PM | In-Person                        |
-| Tuesday    | Keely         | 12:30 PM - 2:30 PM | In-Person                        |
-|            | Roquibat      | 2:00 PM - 4:00 PM  | In-Person                        |
-|            | Liam          | 2:30 PM - 3:30 PM  | In-Person                        |
-| Wednesday  | Liam          | 12:00 PM - 3:00 PM | In-Person                        |
-|            | Marvens       | 2:00 PM - 3:00 PM  | In-Person                        |
-|            | Nathan        | 4:00 PM - 6:00 PM  | In-Person                        |
-| Thursday   | Keely         | 12:30 PM - 2:30 PM | In-Person                        |
-|            | Nathan        | 1:00 PM - 3:00 PM  | In-Person                        |
-|            | Liam          | 2:30 PM - 4:30 PM  | In-Person                        |
-| Friday     | Roquibat      | 11:00 AM - 1:00 PM | In-Person                        |
-|            | John          | 11:30 AM - 12:30 PM| Remote ([Online](#))             |
-|            | Keely         | 12:00 PM - 1:00 PM | In-Person                        |
+| Day        | Staff Member                      | Time                               | Location                       |
+|------------|-----------------------------------|------------------------------------|--------------------------------|
+| Monday     | John <br> Liam                   | 11:30 AM - 1:30 PM <br> 12:00 PM - 1:45 PM | Onsite <br> Onsite            |
+| Tuesday    | Keely <br> Roquibat <br> Liam    | 12:30 PM - 2:30 PM <br> 2:00 PM - 4:00 PM <br> 2:30 PM - 3:30 PM | Onsite <br> Onsite <br> Onsite |
+| Wednesday  | Liam <br> Marvens <br> Nathan    | 12:00 PM - 3:00 PM <br> 2:00 PM - 3:00 PM <br> 4:00 PM - 6:00 PM | Onsite <br> Onsite <br> Onsite |
+| Thursday   | Keely <br> Nathan <br> Liam      | 12:30 PM - 2:30 PM <br> 1:00 PM - 3:00 PM <br> 2:30 PM - 4:30 PM | Onsite <br> Onsite <br> Onsite |
+| Friday     | Roquibat <br> John <br> Keely    | 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 1:00 PM | Onsite <br> Remote ([Online](#)) <br> Onsite |
+
 
 
 
@@ -51,7 +43,7 @@
 | Day       | Staff Member              | Time            | Room                         |
 |-----------|---------------------------|-----------------|------------------------------|
 | Monday    | John, Liam,  Nathan | 3:00 PM - 4:45 PM | Washburn Hall 220            |
-| Wednesday | Roquibat,  Keely , Marvens | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
+| Wednesday | Roquibat,  Keely, Marvens | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
 | Thursday  | Marvens,  Roquibat     | 3:30 PM - 5:15 PM | Engineering Building Room 045 |
 
  
