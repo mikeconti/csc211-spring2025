@@ -13,8 +13,7 @@
 
 
 
-**Office Hours Schedule**
-#### Onsite Office Hours - Tyler 3rd Floor Lounge
+**Office Hours Schedule** - Tyler 3rd Floor Lounge
 
 | Day        | Staff Member                      | Time                               | Location                       |
 |------------|-----------------------------------|------------------------------------|--------------------------------|
