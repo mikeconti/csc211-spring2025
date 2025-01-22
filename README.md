@@ -34,7 +34,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Monday | Liam, John | 1:45 PM - 2:45 PM | Tyler 055 | 
+|Monday | John, Liam | 1:45 PM - 2:45 PM | Tyler 055 | 
 |Wednesday | Keely, Roquibat | 2:00 PM - 3:00 PM |Tyler 3rd Floor |
 
 
@@ -43,7 +43,7 @@
 | Day       | Staff Member              | Time            | Room                         |
 |-----------|---------------------------|-----------------|------------------------------|
 | Monday    | John, Liam,  Nathan | 3:00 PM - 4:45 PM | Washburn Hall 220            |
-| Wednesday | Roquibat,  Keely, Marvens | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
+| Wednesday | Keely, Marvens, Roquibat | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
 | Thursday  | Marvens,  Roquibat     | 3:30 PM - 5:15 PM | Engineering Building Room 045 |
 
  
