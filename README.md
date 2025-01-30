@@ -18,10 +18,10 @@
 | Day        | Staff Member                      | Time                               | Location                       |
 |------------|-----------------------------------|------------------------------------|--------------------------------|
 | Monday     | John <br> Liam                   | 11:30 AM - 1:30 PM <br> 12:00 PM - 1:45 PM | Onsite <br> Onsite            |
-| Tuesday    | Michael <br> Keely <br> Roquibat <br>     | 10:00 AM - 11:00AM <br> 12:30 PM - 2:30 PM <br> 2:00 PM - 4:00 PM <br>  | Tyler 132 <br> Onsite <br> Onsite |
+| Tuesday    | Michael <br> Keely <br> Roquibat <br>     | 10:00 AM - 11:00AM <br> 12:30 PM - 2:00 PM <br> 3:30 PM - 5:30 PM <br>  | Tyler 132 <br> Onsite <br> [Online](https://uri-edu.zoom.us/my/roquibat.adetunji) |
 | Wednesday  | Liam <br> Marvens <br> Nathan    | 12:00 PM - 3:00 PM <br> 2:00 PM - 3:00 PM <br> 5:00 PM - 6:00 PM | Onsite <br> Onsite <br> Onsite |
-| Thursday   | Keely <br> Nathan <br> Liam      | 12:30 PM - 2:30 PM <br> 1:00 PM - 3:00 PM <br> 3:30 PM - 4:30 PM | Onsite <br> Onsite <br> Onsite |
-| Friday     | Liam <br> Roquibat <br> John <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 1:00 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Onsite <br> [Online](#) <br> Onsite |
+| Thursday   | Keely <br> Nathan       | 12:30 PM - 2:00 PM <br> 1:00 PM - 3:00 PM <br> | Onsite <br> Onsite  |
+| Friday     | Liam <br> Roquibat <br> John <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Onsite <br> [Online](#) <br> Onsite |
 
 
 
@@ -44,7 +44,7 @@
 |-----------|---------------------------|-----------------|------------------------------|
 | Monday    | John, Liam,  Nathan | 3:00 PM - 4:45 PM | Washburn Hall 220            |
 | Wednesday | Keely, Marvens, Roquibat | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
-| Thursday  | Marvens,  Roquibat     | 3:30 PM - 5:15 PM | Engineering Building Room 045 |
+| Thursday  | Keely, Marvens, Roquibat    | 3:30 PM - 5:15 PM | Engineering Building Room 045 |
 
  
 
