@@ -21,7 +21,7 @@
 | Tuesday    | Michael <br> Keely <br> Roquibat <br>     | 10:00 AM - 11:00AM <br> 12:30 PM - 2:00 PM <br> 3:30 PM - 5:30 PM <br>  | Tyler 132 <br> Onsite <br> [Online](https://uri-edu.zoom.us/my/roquibat.adetunji) |
 | Wednesday  | Liam <br> Marvens <br> Nathan    | 12:00 PM - 3:00 PM <br> 2:00 PM - 3:00 PM <br> 5:00 PM - 6:00 PM | Onsite <br> Onsite <br> Onsite |
 | Thursday   | Keely <br> Nathan       | 12:30 PM - 2:00 PM <br> 1:00 PM - 3:00 PM <br> | Onsite <br> Onsite  |
-| Friday     | Liam <br> Roquibat <br> John <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Onsite <br> [Online](#) <br> Onsite |
+| Friday     | Liam <br> Roquibat <br> John <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Onsite <br> [Online](https://uri-edu.zoom.us/j/96214355233) <br> Onsite |
 
 
 
