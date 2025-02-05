@@ -35,7 +35,7 @@
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
 |Monday | John, Liam | 1:45 PM - 2:45 PM | Tyler 055 | 
-|Wednesday | Keely, Roquibat | 2:00 PM - 3:00 PM |Tyler 3rd Floor |
+|Wednesday | Keely, Roquibat | 2:00 PM - 3:00 PM | Tyler 055 |
 
 
  **Lab**
