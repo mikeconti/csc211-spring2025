@@ -17,11 +17,11 @@
 
 | Day        | Staff Member                      | Time                               | Location                       |
 |------------|-----------------------------------|------------------------------------|--------------------------------|
-| Monday     | John <br> Liam                   | 11:30 AM - 1:30 PM <br> 12:00 PM - 1:45 PM | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge            |
+| Monday     | John <br> Liam                   | 11:00 AM - 2:00 PM <br> 12:00 PM - 1:45 PM | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge            |
 | Tuesday    | Michael <br> Keely <br> Roquibat <br>     | 10:00 AM - 11:00AM <br> 12:30 PM - 2:00 PM <br> 3:30 PM - 5:30 PM <br>  | Tyler 132 <br> Tyler 3rd Floor Lounge <br> [Online](https://uri-edu.zoom.us/my/roquibat.adetunji) |
 | Wednesday  | Liam <br> Marvens <br> Nathan    | 12:30 PM - 3:00 PM <br> 1:00 PM - 2:00 PM <br> 5:00 PM - 6:00 PM | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge |
-| Thursday   | Keely <br> Nathan       | 12:30 PM - 2:00 PM <br> 1:00 PM - 3:00 PM <br> | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge  |
-| Friday     | Liam <br> Roquibat <br> John <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 11:30 AM - 12:30 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Tyler 1st Floor Lounge <br> [Online](https://uri-edu.zoom.us/j/96214355233) <br> Tyler 1st Floor Lounge |
+| Thursday   | John <br> Keely <br> Nathan       | 8:00 AM  - 9:15 AM <br> 12:30 PM - 2:00 PM <br> 1:00 PM - 3:00 PM <br> | [Online](https://uri-edu.zoom.us/j/96214355233) <br> Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge  |
+| Friday     | Liam <br> Roquibat <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Tyler 1st Floor Lounge <br> Tyler 1st Floor Lounge |
 
 
 
@@ -34,7 +34,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Monday | John, Liam | 1:45 PM - 2:45 PM | Tyler 055 | 
+|Monday | Liam | 1:45 PM - 2:45 PM | Tyler 055 | 
 |Wednesday | Keely, Roquibat | 2:00 PM - 3:00 PM | Tyler 055 |
 
 
