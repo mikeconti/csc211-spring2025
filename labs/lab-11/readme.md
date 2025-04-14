@@ -3,7 +3,7 @@
 Welcome to CSC 211 Lab 12. The major focus of today's lab will be to learn how to write and use classes in C++, while gaining experience with pointers and dynamic memory.
 To accomplish this, you will be creating a `MyString` class that behaves like, and has some of the functions associated with `std::string`. 
 
-0. IDEA Course Feedback<br>
+0. IDEA Course Feedback (4/17/2025)<br>
 1. Class Review [30 mins]<br>
 1.1 What is a Class?<br>
 1.2 Headers and Source Files<br>
@@ -14,7 +14,7 @@ To accomplish this, you will be creating a `MyString` class that behaves like, a
 
 ## 0. IDEA Course Feedback
 
-The IDEA student feedback period is now open for students.
+The IDEA student feedback period will be open on 4/17/2025 open for students.
 
 Please visit [https://uri.campuslabs.com/eval-home/](https://uri.campuslabs.com/eval-home/) to complete the IDEAs. You have received an email with instructions requesting they complete course feedback. They will continue to receive email reminders throughout the feedback period.
 
