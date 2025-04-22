@@ -9,7 +9,14 @@ Welcome to CSC 211 Lab 13. The goal of this lab is to use classes and objects to
 
 ## 1. IDEA Course Feedback
 
+The first 15 minutes of the lab will be compleating the course evaluation survey.
+
+You can find the survey below. **Please fill out section 0001.**
+
+
 Please visit [https://uri.campuslabs.com/eval-home/](https://uri.campuslabs.com/eval-home/) to complete the IDEAs. You have received an email with instructions requesting they complete course feedback. They will continue to receive email reminders throughout the feedback period.
+
+Thanks!
 
 ## 2. Background
 
